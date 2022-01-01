@@ -1,0 +1,26 @@
+*{
+	margin 0;
+	padding 0;
+}
+#maindropdown ul{ 
+     padding:0px;
+}
+#maindropdown ul li{
+	float:left;
+	background-color:purple;
+	color:pink;
+	width:200px;
+	height:50px;
+	line-height:25px;
+	text-align:center;
+	line-style:none;
+	opacity:0.6;
+	
+	
+}
+#maindropdown ul li ul:hover{
+	background-color:green;
+}
+#maindropdown ul li:hover> ul{ 
+    display:block;
+}
