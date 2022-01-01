@@ -1,0 +1,12 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.1),#009688);
+	background-size: cover;
+	font-family: bold;
+	background-repeat: no-repeat;
+}
+
+.header h1{
+	color: red;
+	text-align: center;
+	text-shadow:2px 2px #0000;
+}
